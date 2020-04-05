@@ -1,0 +1,2 @@
+/executable-windows*.lua
+!/executable-windows.lua
